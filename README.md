@@ -43,7 +43,7 @@ Here are the 2 steps required to achieve this:
 1. Enable Chrome to accept command-line parameters:
 
 On the Android Device, go to the Chrome version being used to test the TWA and navigate to
-`chrome://flags`. Search for a setting called `Enable commmand line on non-rooted devices` and
+`chrome://flags`. Search for a setting called `Enable command line on non-rooted devices` and
 change it to `Enabled`. Restarting the browser *multiple* times may be required.
 
 2. Create an Android file with the command-line parameters that allow skipping the TWA validation.
